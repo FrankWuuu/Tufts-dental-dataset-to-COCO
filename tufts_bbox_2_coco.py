@@ -105,7 +105,7 @@ coco_struc= {
     }
 
 print('Export JSON')
-path_newjson = "coco_ins_demo_out333.json"
+path_newjson = "tufts_bbox_2_coco.json"
 with open(path_newjson, 'w') as outfile:
     json.dump(coco_struc, outfile)
 
