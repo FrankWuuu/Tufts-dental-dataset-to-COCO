@@ -26,7 +26,7 @@ tufts bbox：[x_min, y_min, x_max, y_max]
 coco bbox ：[x_min, y_min, width, height]
 ```
 
-## COCO annotation　format
+## COCO annotation format
 ```json
 {
     "info": {
