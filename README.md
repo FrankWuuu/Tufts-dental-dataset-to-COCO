@@ -17,7 +17,7 @@ The original JSON file is under the directory Segmentation：`teeth_bbox.json`an
         |-- teeth_polygon.json
 ```
 If you find it helpful, please consider giving it a star.
-
+<table><tr><td bgcolor=#FF4500>这里的背景色是：OrangeRed，  十六进制颜色值：#FF4500， rgb(255, 69, 0)</td></tr></table>
 Discussions are welcomed!
 
 # It is worth noting that the bounding box is different
