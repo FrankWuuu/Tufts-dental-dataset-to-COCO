@@ -1,0 +1,118 @@
+{
+    "info": {
+        "description": null,
+        "url": null,
+        "version": null,
+        "year": 2022,
+        "contributor": null,
+        "date_created": "2022-12-10 03:15:17.096593"
+    },
+    "licenses": [
+        {
+            "url": null,
+            "id": 0,
+            "name": null
+        }
+    ],
+    "images": [
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "105620.png",
+            "height": 1080,
+            "width": 1440,
+            "date_captured": null,
+            "id": 0
+        },
+        {
+            "license": 0,
+            "url": null,
+            "file_name": "76542.png",
+            "height": 2304,
+            "width": 3456,
+            "date_captured": null,
+            "id": 298
+        }
+    ],
+    "type": "instances",
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 25,
+            "segmentation": [
+                [
+                    765.03744,
+                    430.4772,
+                    449.40744,
+                    764.49744
+                ]
+            ],
+            "area": 21891.0,
+            "bbox": [
+                763.0,
+                367.0,
+                153.0,
+                173.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 1,
+            "image_id": 0,
+            "category_id": 17,
+            "segmentation": [
+                [
+                    613.74528,
+                    471.68244,
+                    523.78272,
+                    614.86704,
+                    493.39151999999996,
+                    613.74528,
+                    471.68244
+                ]
+            ],
+            "area": 22192.0,
+            "bbox": [
+                613.0,
+                368.0,
+                154.0,
+                173.0
+            ],
+            "iscrowd": 0
+        },
+        {
+            "id": 7317,
+            "image_id": 298,
+            "category_id": 14,
+            "segmentation": [
+                [
+                    2734.152192,
+                    1278.7384319999999,
+                    2734.152192,
+                    1222.4448
+                ]
+            ],
+            "area": 16015.0,
+            "bbox": [
+                2734.0,
+                1162.0,
+                134.0,
+                193.0
+            ],
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": null,
+            "id": 0,
+            "name": "_background_"
+        },
+        {
+            "supercategory": null,
+            "id": 32,
+            "name": "ur8"
+        }
+    ]
+}

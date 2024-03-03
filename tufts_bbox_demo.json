@@ -1,0 +1,27 @@
+[
+    {
+        "Label": {
+            "objects": [
+                {
+                    "title": "1",
+                    "bounding box": [
+                        381,
+                        416,
+                        500,
+                        484
+                    ]
+                },
+                {
+                    "title": "2",
+                    "bounding box": [
+                        376,
+                        472,
+                        506,
+                        557
+                    ]
+                }
+            ]
+        },
+        "External ID": "986.jpg"
+    }
+]
