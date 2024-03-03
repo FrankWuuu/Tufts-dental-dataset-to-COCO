@@ -18,7 +18,7 @@ The original JSON file is under the directory Segmentation：`teeth_bbox.json`an
 ```
 If you find it helpful, please consider giving it a star🌟.
     
-Discussions are welcomed!
+Discussions are welcome !
 
 # It is worth noting that the bounding box is different
 ```
