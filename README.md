@@ -16,7 +16,7 @@ The original JSON file is under the directory Segmentation：`teeth_bbox.json`an
         |-- teeth_bbox.json
         |-- teeth_polygon.json
 ```
-If you find it helpful, please consider `giving it a star`.
+If you find it helpful, please consider `giving it a star`🌟.
     
 Discussions are welcomed!
 
