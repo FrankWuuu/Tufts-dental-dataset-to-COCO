@@ -4,6 +4,13 @@ The original dataset is available from [Tufts Official](https://tdd.ece.tufts.ed
 
 This repository aims to convert the **Tufts** annotation `JSON` file into **COCO** format `JSON` file.
 
+> [!WARNING]  
+> in the tufts dataset, the tooth is named as "title",
+> And it belongs to the list:\
+> `label_names = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31',
+'32', 'A', 'B', 'C', 'D', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'R', 'S', 'T', 'N', 'Q', 'P', 'E', 'F', 'O']`\
+> I don't know why the teeth are named this way, as other articles usually follow the FDI method for tooth naming. Additionally, the total number of human teeth, including wisdom teeth, is only 32, so I'm unsure what the 'A', 'B', 'C', and so on letters signify. I am still awaiting assistance and clarification from the respective authors.
+
 The original JSON file is under the directory Segmentation：`teeth_bbox.json`and`teeth_polygon.json`.
 ```
 |--Tufts_dental_dataset
